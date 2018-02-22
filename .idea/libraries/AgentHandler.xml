@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="AgentHandler">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../BaseAgent/src/com/gulley/dustin/AgentHandler.java" />
+      <root url="file://$PROJECT_DIR$/../BaseAgent/src/com/gulley/dustin/BaseAgent.java" />
+      <root url="file://$PROJECT_DIR$/../BaseAgent/src/com/gulley/dustin/QuitListener.java" />
+    </SOURCES>
+  </library>
+</component>

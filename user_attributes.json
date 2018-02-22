@@ -1,0 +1,84 @@
+{
+  "person": {
+    "email": "gulleydu@nku.edu",
+    "name": "dustin-gulley",
+    "area": {
+      "location": {
+        "street": "",
+        "city": "Hebron",
+        "state": "Kentucky",
+        "zip": "41048",
+        "lat": 39.075837,
+        "lng": -84.729125
+      },
+      "radius": 10000
+    },
+    "work": {
+      "area": {
+        "location": {
+          "street": "",
+          "city": "Florence",
+          "state": "Kentucky",
+          "zip": "41042",
+          "lat": 38.976046,
+          "lng": -84.601848
+        },
+        "radius": 10000
+      },
+      "work-hours": [{
+        "day": "Monday",
+        "hours-begin": 570,
+        "hours-end": 1110
+      },{
+        "day": "Tuesday",
+        "hours-begin": 600,
+        "hours-end": 1140
+      },{
+        "day": "Wednesday",
+        "hours-begin": 480,
+        "hours-end": 1020
+      },{
+        "day": "Thursday",
+        "hours-begin": 600,
+        "hours-end": 1140
+      },{
+        "day": "Friday",
+        "hours-begin": 570,
+        "hours-end": 1110
+      }],
+      "lunch-hours": [{
+        "day": "Monday",
+        "hours-begin": 720,
+        "hours-end": 780
+      },{
+        "day": "Tuesday",
+        "hours-begin": 720,
+        "hours-end": 780
+      },{
+        "day": "Wednesday",
+        "hours-begin": 720,
+        "hours-end": 780
+      },{
+        "day": "Thursday",
+        "hours-begin": 720,
+        "hours-end": 780
+      },{
+        "day": "Friday",
+        "hours-begin": 720,
+        "hours-end": 780
+      }]
+    }
+  },
+  "preferences": {
+    "travel": 6,
+    "cost": 8,
+    "reviews": 4,
+    "selection": 4,
+    "repeatedness": 8,
+    "open": -1
+  },
+  "max": 3,
+  "history": [
+
+  ]
+}
